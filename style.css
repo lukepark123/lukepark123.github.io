@@ -1,0 +1,48 @@
+h1 {
+    color:#2C3531; 
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    /* text-decoration: underline; */
+    font-weight: 900; 
+    font-family: monospace;
+    color: #D1E8E2;
+    font-size: 3em;
+}
+#name {
+    font-size: 2em;
+}
+body {
+    background-color: #116466;
+}
+a {
+    font-size: 30px;
+    color: #ffCB9A;
+    text-decoration: none;
+}
+a:hover {
+    color: #D9B08C;
+}
+footer{
+    text-align: center;
+}
+#footerP{
+    color: #2C3531;
+}
+header{
+    border-style: inset;
+    border-width: thin;
+    border-color:#D1E8E2;
+}
+nav{
+    margin-top: 30px;
+}
+#myCanvas{
+    background-color: white;
+}
+section{
+    text-align: center;
+    margin-top: 30px;
+}
